@@ -52,3 +52,8 @@ The content is intentionally grounded in the supplied resume and LinkedIn profil
 
 - GitHub: https://github.com/ARPIT-27-PANDEY
 - LinkedIn: https://www.linkedin.com/in/arpit-pandey-12074a286
+
+
+## Profile photo
+
+The hero section uses the supplied portrait stored at `assets/arpit-pandey.jpg`. The page uses a responsive, local asset rather than a third-party image URL.
